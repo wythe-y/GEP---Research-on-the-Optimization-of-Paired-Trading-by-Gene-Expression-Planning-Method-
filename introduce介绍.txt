@@ -1,0 +1,5 @@
+本文件为论文《基因表达规划法对于配对交易的最佳化研究》的代码内容，代码内容较多内容较为负责，如果需要帮助请私信。
+
+This file is the code content of the paper "Research on the Optimization of Paired Trading by Gene Expression Planning Method". If there is more code content, I am more responsible. If you need help, please send a private message.
+
+https://hdl.handle.net/11296/w9xvq6
